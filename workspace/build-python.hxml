@@ -1,0 +1,6 @@
+
+-cp src
+
+-main HaxePrimes
+
+-python ./build/python/HaxePrimes.py

@@ -1,0 +1,8 @@
+
+-cp src
+
+-main HaxePrimes
+
+-lib hxcs
+
+-cs ./build/cs/

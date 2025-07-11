@@ -1,0 +1,9 @@
+services:
+
+    haxe:
+        restart: always
+        build:
+            context: ./docker/haxe/
+            dockerfile: dockerfile
+        volumes:
+            - ./workspace:/workspace

@@ -1,0 +1,8 @@
+
+-cp src
+
+-main HaxePrimes
+
+-lib hxnodejs
+
+-js ./build/nodejs/HaxePrimes.js

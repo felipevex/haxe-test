@@ -1,0 +1,6 @@
+
+-cp src
+
+-main HaxePrimes
+
+-php ./build/php/
